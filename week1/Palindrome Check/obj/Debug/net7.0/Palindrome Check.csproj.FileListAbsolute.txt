@@ -1,0 +1,15 @@
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\Palindrome Check.csproj.AssemblyReference.cache
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\Palindrome Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\Palindrome Check.AssemblyInfoInputs.cache
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\Palindrome Check.AssemblyInfo.cs
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\Palindrome Check.csproj.CoreCompileInputs.cache
+C:\Users\USR\Desktop\Palindrome Check\bin\Debug\net7.0\Palindrome Check.exe
+C:\Users\USR\Desktop\Palindrome Check\bin\Debug\net7.0\Palindrome Check.deps.json
+C:\Users\USR\Desktop\Palindrome Check\bin\Debug\net7.0\Palindrome Check.runtimeconfig.json
+C:\Users\USR\Desktop\Palindrome Check\bin\Debug\net7.0\Palindrome Check.dll
+C:\Users\USR\Desktop\Palindrome Check\bin\Debug\net7.0\Palindrome Check.pdb
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\Palindrome Check.dll
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\refint\Palindrome Check.dll
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\Palindrome Check.pdb
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\Palindrome Check.genruntimeconfig.cache
+C:\Users\USR\Desktop\Palindrome Check\obj\Debug\net7.0\ref\Palindrome Check.dll
