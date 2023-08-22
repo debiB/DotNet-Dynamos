@@ -1,0 +1,15 @@
+C:\Users\USR\Desktop\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.exe
+C:\Users\USR\Desktop\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.deps.json
+C:\Users\USR\Desktop\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.runtimeconfig.json
+C:\Users\USR\Desktop\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.dll
+C:\Users\USR\Desktop\Building a Shape Hierarchy\bin\Debug\net7.0\Building a Shape Hierarchy.pdb
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.csproj.AssemblyReference.cache
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.AssemblyInfoInputs.cache
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.AssemblyInfo.cs
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.dll
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\refint\Building a Shape Hierarchy.dll
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.pdb
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\Building a Shape Hierarchy.genruntimeconfig.cache
+C:\Users\USR\Desktop\Building a Shape Hierarchy\obj\Debug\net7.0\ref\Building a Shape Hierarchy.dll

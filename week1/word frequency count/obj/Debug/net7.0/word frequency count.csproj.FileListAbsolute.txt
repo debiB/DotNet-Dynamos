@@ -1,0 +1,15 @@
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\word frequency count.csproj.AssemblyReference.cache
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\word frequency count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\word frequency count.AssemblyInfoInputs.cache
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\word frequency count.AssemblyInfo.cs
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\word frequency count.csproj.CoreCompileInputs.cache
+C:\Users\USR\Desktop\word frequency count\bin\Debug\net7.0\word frequency count.exe
+C:\Users\USR\Desktop\word frequency count\bin\Debug\net7.0\word frequency count.deps.json
+C:\Users\USR\Desktop\word frequency count\bin\Debug\net7.0\word frequency count.runtimeconfig.json
+C:\Users\USR\Desktop\word frequency count\bin\Debug\net7.0\word frequency count.dll
+C:\Users\USR\Desktop\word frequency count\bin\Debug\net7.0\word frequency count.pdb
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\word frequency count.dll
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\refint\word frequency count.dll
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\word frequency count.pdb
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\word frequency count.genruntimeconfig.cache
+C:\Users\USR\Desktop\word frequency count\obj\Debug\net7.0\ref\word frequency count.dll

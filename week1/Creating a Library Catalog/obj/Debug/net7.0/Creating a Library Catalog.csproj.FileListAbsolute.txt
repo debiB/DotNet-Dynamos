@@ -1,0 +1,15 @@
+C:\Users\USR\Desktop\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.exe
+C:\Users\USR\Desktop\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.deps.json
+C:\Users\USR\Desktop\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.runtimeconfig.json
+C:\Users\USR\Desktop\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.dll
+C:\Users\USR\Desktop\Creating a Library Catalog\bin\Debug\net7.0\Creating a Library Catalog.pdb
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.csproj.AssemblyReference.cache
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.AssemblyInfoInputs.cache
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.AssemblyInfo.cs
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.csproj.CoreCompileInputs.cache
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.dll
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\refint\Creating a Library Catalog.dll
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.pdb
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\Creating a Library Catalog.genruntimeconfig.cache
+C:\Users\USR\Desktop\Creating a Library Catalog\obj\Debug\net7.0\ref\Creating a Library Catalog.dll

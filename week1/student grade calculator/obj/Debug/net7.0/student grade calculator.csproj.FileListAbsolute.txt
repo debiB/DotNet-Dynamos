@@ -1,0 +1,15 @@
+C:\Users\USR\Desktop\student grade calculator\bin\Debug\net7.0\student grade calculator.exe
+C:\Users\USR\Desktop\student grade calculator\bin\Debug\net7.0\student grade calculator.deps.json
+C:\Users\USR\Desktop\student grade calculator\bin\Debug\net7.0\student grade calculator.runtimeconfig.json
+C:\Users\USR\Desktop\student grade calculator\bin\Debug\net7.0\student grade calculator.dll
+C:\Users\USR\Desktop\student grade calculator\bin\Debug\net7.0\student grade calculator.pdb
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\student grade calculator.csproj.AssemblyReference.cache
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\student grade calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\student grade calculator.AssemblyInfoInputs.cache
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\student grade calculator.AssemblyInfo.cs
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\student grade calculator.csproj.CoreCompileInputs.cache
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\student grade calculator.dll
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\refint\student grade calculator.dll
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\student grade calculator.pdb
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\student grade calculator.genruntimeconfig.cache
+C:\Users\USR\Desktop\student grade calculator\obj\Debug\net7.0\ref\student grade calculator.dll
