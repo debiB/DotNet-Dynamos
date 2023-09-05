@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9YV+raQGPP6y57nDGy+2X+zLfaKImaB5wQ862Z3A316LOfWOxtUG3x1NXXRLnIKs6sXTWiJr6qVMG7Jd1uxoEg==",
+  "success": true,
+  "projectFilePath": "/Users/deborahb/Desktop/Files/Student Management System/Student Management System.csproj",
+  "expectedPackageFiles": [
+    "/Users/deborahb/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

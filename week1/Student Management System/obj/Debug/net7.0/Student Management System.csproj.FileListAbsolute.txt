@@ -1,0 +1,17 @@
+/Users/deborahb/Desktop/Files/Student Management System/bin/Debug/net7.0/Student Management System
+/Users/deborahb/Desktop/Files/Student Management System/bin/Debug/net7.0/Student Management System.deps.json
+/Users/deborahb/Desktop/Files/Student Management System/bin/Debug/net7.0/Student Management System.runtimeconfig.json
+/Users/deborahb/Desktop/Files/Student Management System/bin/Debug/net7.0/Student Management System.dll
+/Users/deborahb/Desktop/Files/Student Management System/bin/Debug/net7.0/Student Management System.pdb
+/Users/deborahb/Desktop/Files/Student Management System/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.csproj.AssemblyReference.cache
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.AssemblyInfoInputs.cache
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.AssemblyInfo.cs
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.csproj.CoreCompileInputs.cache
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.csproj.CopyComplete
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.dll
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/refint/Student Management System.dll
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.pdb
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/Student Management System.genruntimeconfig.cache
+/Users/deborahb/Desktop/Files/Student Management System/obj/Debug/net7.0/ref/Student Management System.dll
