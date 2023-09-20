@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{993A31D6-8595-402E-809F-5C067D65669E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../BlogConsoleAppTest/PostManagerTest.cs">
+    <Files>
+      <File FileName="Controller/CommentManager.cs" Line="16" Column="54" />
+      <File FileName="Data/BlogConsoleAppdbContext.cs" Line="9" Column="45" />
+      <File FileName="Model/Comment.cs" Line="5" Column="11" />
+      <File FileName="Model/Post.cs" Line="6" Column="32" />
+      <File FileName="Program.cs" Line="12" Column="9" />
+      <File FileName="Controller/PostManager.cs" Line="9" Column="44" />
+      <File FileName="Driver/UserMenu.cs" Line="76" Column="26" />
+      <File FileName="Driver/SwitchAction.cs" Line="44" Column="10" />
+      <File FileName="Driver/CommentDriver.cs" Line="20" Column="10" />
+      <File FileName="Driver/ContextGenerator.cs" Line="14" Column="76" />
+      <File FileName="Driver/PostDriver.cs" Line="97" Column="1" />
+      <File FileName="Properties/appsettings.json" Line="11" Column="15" />
+      <File FileName="Startup.cs" Line="16" Column="10" />
+      <File FileName="../BlogConsoleAppTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="../BlogConsoleAppTest/CommentManagerTest.cs" Line="24" Column="9" />
+      <File FileName="../BlogConsoleAppTest/PostManagerTest.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlogConsoleApp" expanded="True">
+            <Node name="BlogConsoleApp" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controller" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Driver" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="BlogConsoleAppTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlogConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlogConsoleAppTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
