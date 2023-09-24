@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d0eX/5zvSm7+jiiSLSoZ0LlvX1OptEne/kb63Gj9lsPJUZv/jxXsXZlwaP2LnSOEunOMoqPxPD1p3efS0FT63Q==",
+  "dgSpecHash": "R4E3FhIxhds8S4IOghSBmHhF1W6wUF4ZeSKaSEc0Bpl/28embDyEoNmPy1YW3blnV6d+dgD+4NGesCH7F+rIhg==",
   "success": true,
-  "projectFilePath": "/Users/deborahb/Desktop/Files/BlogConsoleApp/BlogConsoleApp/BlogConsoleApp.csproj",
+  "projectFilePath": "/Users/deborahb/Desktop/Files/A2SV-TASKS/BlogConsoleApp/BlogConsoleApp/BlogConsoleApp.csproj",
   "expectedPackageFiles": [
     "/Users/deborahb/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/deborahb/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",

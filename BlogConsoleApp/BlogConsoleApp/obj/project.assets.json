@@ -5610,11 +5610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/deborahb/Desktop/Files/BlogConsoleApp/BlogConsoleApp/BlogConsoleApp.csproj",
+      "projectUniqueName": "/Users/deborahb/Desktop/Files/A2SV-TASKS/BlogConsoleApp/BlogConsoleApp/BlogConsoleApp.csproj",
       "projectName": "BlogConsoleApp",
-      "projectPath": "/Users/deborahb/Desktop/Files/BlogConsoleApp/BlogConsoleApp/BlogConsoleApp.csproj",
+      "projectPath": "/Users/deborahb/Desktop/Files/A2SV-TASKS/BlogConsoleApp/BlogConsoleApp/BlogConsoleApp.csproj",
       "packagesPath": "/Users/deborahb/.nuget/packages/",
-      "outputPath": "/Users/deborahb/Desktop/Files/BlogConsoleApp/BlogConsoleApp/obj/",
+      "outputPath": "/Users/deborahb/Desktop/Files/A2SV-TASKS/BlogConsoleApp/BlogConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/deborahb/.nuget/NuGet/NuGet.Config"
