@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{BAEA1472-B1C7-4ADF-BE9C-72B9515878CF}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/deborahb/Projects/BlogWebApi/BlogWebApi/Controllers/PostController.cs" relfile="BlogWebApi/Controllers/PostController.cs" line="69" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlogWebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlogWebApi/Controllers/PostController.cs">
+    <Files>
+      <File FileName="BlogWebApi/Models/Comment.cs" Line="16" Column="21" />
+      <File FileName="BlogWebApi/Models/Post.cs" Line="14" Column="9" />
+      <File FileName="BlogWebApi/Data/BlogWebApiDbContext.cs" Line="23" Column="48" />
+      <File FileName="BlogWebApi/appsettings.json" />
+      <File FileName="BlogWebApi/Program.cs" />
+      <File FileName="BlogWebApi/Controllers/PostController.cs" Line="69" Column="1" />
+      <File FileName="BlogWebApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="BlogWebApi/Controllers/CommentController.cs" Line="11" Column="5" />
+      <File FileName="BlogWebApi/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlogWebApi" expanded="True">
+            <Node name="BlogWebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
