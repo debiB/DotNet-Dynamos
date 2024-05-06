@@ -1,4 +1,4 @@
-# Eskalate Internship Program Task Repository
+# Dotnet Dynamos
 
 This repository showcases a collection of backend tasks completed as part of the Eskalate Internship Program. Here, you'll find the code and documentation related to the development of web APIs and other backend tasks, providing insights into my skills.
 
